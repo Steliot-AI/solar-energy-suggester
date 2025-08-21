@@ -9,3 +9,5 @@ unidecode
 geopandas
 geodatasets
 scikit-learn
+tqdm
+lightgbm
